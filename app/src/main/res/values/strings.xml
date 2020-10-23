@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Multi Lenguaje</string>
+    <string name="button">Entrar</string>
+    <string name="text">Bienvenido</string>
+    <string name="fondo">Fondo</string>
+    <string name="back">back</string>
+</resources>
